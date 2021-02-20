@@ -1,4 +1,4 @@
-# isteCenter-elkMaster-Dockerization
+# isteCenter-elk-docker
   
   `sudo apt-get install docker.io` (For debian)
 
@@ -9,4 +9,4 @@
   `docker-compose up`
 
 
-This compose have not kibana. if you want kibana, you need edit docker-compose. In docker compose have kibana settings. AND you need create directory and a Dockerfile for kibana.
+
